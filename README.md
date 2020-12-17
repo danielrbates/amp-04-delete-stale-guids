@@ -10,7 +10,7 @@ Authentication parameters:
 - api_key
 
 Delete all GUIDs older than this value:
-- age_treshold
+- age_threshold
 
 Choose cloud location. Set to eu for European Union, apjc for Asia Pacific, Japan, and Greater China or leave empty for North America:
 - cloud
